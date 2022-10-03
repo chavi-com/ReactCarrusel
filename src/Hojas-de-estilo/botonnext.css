@@ -1,0 +1,21 @@
+div {
+    width: 250px;
+    height: 250px;
+    font-size: 35px;
+    font-family:  sans-serif;
+    font-weight: bold;
+    color: rgb(255, 203, 203);
+    border:1px solid white;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+
+}
+.boton-prev {
+    background-image:url() ;
+
+}
+.boton-next {
+    background-image:() ;
+
+}
